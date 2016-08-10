@@ -1,0 +1,13 @@
+table {
+    border-width: 1;
+    border-spacing: 0px;
+    
+}
+
+td {
+    padding: 4px;
+}
+
+.main {
+    padding: 20px;
+}
